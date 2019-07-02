@@ -20,11 +20,11 @@
 
 [视频测试](https://media.w3.org/2010/05/sintel/trailer.mp4)
 
-[视频测试2](./res/test.mp4? raw=true)
+[视频测试2](./res/1.jpg?raw=true)
 
 <iframe height=498 width=510 src="./res/test.mp4">
 
-[![Demo CountPages alpha](./res/1.jpg)](https://media.w3.org/2010/05/sintel/trailer.mp4)
+[![Demo CountPages alpha](./res/1.jpg)](./res/test.mp4)
 
 
 
