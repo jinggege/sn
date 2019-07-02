@@ -9,7 +9,8 @@
 </video>
 
 ## 12344
-<iframe name="music" src="http://link.hhtjim.com/163/463157222.mp3" marginwidth="1px" marginheight="20px" width=100% height="80px" frameborder=1 　scrolling="yes">
-</iframe>
 
-[超链接描述](http://link.hhtjim.com/163/463157222.mp3)
+
+[发音测试](http://link.hhtjim.com/163/463157222.mp3)
+
+[视频测试](http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.mp4)
