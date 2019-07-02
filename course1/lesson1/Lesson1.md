@@ -18,9 +18,9 @@
 
 [发音测试](http://link.hhtjim.com/163/463157222.mp3)
 
-[视频测试](https://media.w3.org/2010/05/sintel/trailer.mp4)
+[视频测试](https://media.w3.org/2010/05/sintel/trailer.mp4? raw=true)
 
-[视频测试2](./res/test.mp4)
+[视频测试2](./res/test.mp4? raw=true)
 
 <iframe height=498 width=510 src="./res/test.mp4">
 
