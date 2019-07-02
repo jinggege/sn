@@ -11,3 +11,5 @@
 ## 12344
 <iframe name="music" src="http://link.hhtjim.com/163/463157222.mp3" marginwidth="1px" marginheight="20px" width=100% height="80px" frameborder=1 　scrolling="yes">
 </iframe>
+
+[超链接描述](http://link.hhtjim.com/163/463157222.mp3)
