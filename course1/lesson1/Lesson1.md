@@ -14,3 +14,8 @@
 [发音测试](http://link.hhtjim.com/163/463157222.mp3)
 
 [视频测试](https://media.w3.org/2010/05/sintel/trailer.mp4)
+
+[视频测试2](https://github.com/jinggege/sn/blob/master/course1/lesson1/res/test.mp4)
+
+
+
